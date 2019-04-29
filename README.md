@@ -1,1 +1,1 @@
-# Algo_Odev1
+# Algorima Analizi 2018 - 2019 Ödev1
