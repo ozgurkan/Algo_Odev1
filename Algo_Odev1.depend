@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552820687 source:c:\users\ozgur\desktop\algo_odev1\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+
