@@ -1,6 +1,6 @@
 # Algorima Analizi 2018 - 2019 Ödev1 10.03.2019 
  
-# 2018-2019 Bahar Yarıyılı  Algoritma Analizi   Ödev – 1 
+# 2018-2019 Bahar Yarıyılı  Algoritma Analizi   Ödev – 1  
  
 Ders Yürütücüsü: Dr. Öğr. Üyesi M. Amaç GÜVENSAN 
  
