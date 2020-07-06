@@ -7,7 +7,9 @@ Ders Yürütücüsü: Dr. Öğr. Üyesi M. Amaç GÜVENSAN
  
 # Konu : Rekürsif Algoritmalar    
 # Problem:  Gezgin Çekirge Oyunu İki çekirge bir yolun başından sonuna doğru zıplayarak gitme oyunu oynamaktadırlar. 
+
 Oyunun kuralları şöyledir : 
+
 1.) Çekirgelerden biri yol boyunca yan yana dizili taşlara sayılar yazar. Her sayı o taştan itibaren sağa veya sola kaçıncı taşa zıplanabileceğini göstermektedir.  Son taşın üstünde oyunun bittiğini göstermek için her zaman 0 (sıfır) yazar.  
 
 2.) Diğer çekirge başlangıç taşından başlayarak  her taşın üstünde yazan sayı kadar sağ veya sol yöne doğru zıplayarak son taşa gitmeye çalışır.
