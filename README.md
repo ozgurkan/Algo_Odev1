@@ -20,7 +20,16 @@ Oyunun kuralları şöyledir :
  
 Bu ödevde her birinin üzerinde kaç taş zıplanacağı yazılı  n adet taş değerini kullanarak ( N. taşın değeri her zaman 0 olmalıdır) gezgin çekirgenin başlangıç taşından son taşa gidip gidemeyeceğini bulan rekürsif fonksiyonu ve bu fonksiyonu kullanan ana programı yazınız.   
  
-Rekürsif fonksiyon : int  solvable(int  start, int  leapCount[], int n) Start : hareket başlangıç noktası LeapCount[] : her taştaki  sıçrama sayılarının saklandığı dizi n : dizi uzunluğu Dönüş değeri : Çekirge son taşa gidebilirse : 1, gidemezse : 0 
+Rekürsif fonksiyon : int  solvable(int  start, int  leapCount[], int n) 
+
+Start : hareket başlangıç noktası 
+
+LeapCount[] : her taştaki  sıçrama sayılarının saklandığı dizi 
+
+n : dizi uzunluğu 
+
+Dönüş değeri : Çekirge son taşa gidebilirse : 1, gidemezse : 0 
+
  Örnek 1 :  
  
 Taşlara aşağıdaki sayılar yazılmış olsun. Oyuncu çekirge başlangıç taşı (boyalı taş) üzerindedir.    
